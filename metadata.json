@@ -1,0 +1,6 @@
+{
+  "name": "TU BA Study Companion",
+  "description": "Tribhuvan University BA Rural Development & Sociology study companion with 16-day 1-hour exam reading plan, notes, research papers, and TU mock exam grading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
